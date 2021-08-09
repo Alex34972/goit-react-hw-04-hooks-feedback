@@ -1,0 +1,13 @@
+.Btn {
+  width: 70px;
+  margin-right: 20px;
+  padding: 5px;
+  font-size: medium;
+  font-family: "roboto";
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 2px;
+  box-sizing: border-box;
+  border: none;
+  background-color: aquamarine;
+}
