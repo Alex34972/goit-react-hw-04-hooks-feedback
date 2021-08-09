@@ -1,5 +1,10 @@
+import FeedbackCounter from "./FeedbackStat";
 function App() {
-  return <div className="App"></div>;
+  return (
+    <>
+      <FeedbackCounter />
+    </>
+  );
 }
 
 export default App;
